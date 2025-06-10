@@ -1,0 +1,11 @@
+{
+	  "name": "simple-web-app",
+	    "version": "1.0.0",
+	      "description": "A very basic Node.js web server for Docker demonstration.",
+	        "main": "app.js",
+		  "scripts": {
+			      "start": "node app.js"
+			        },
+				  "author": "Your Name",
+				    "license": "ISC"
+}
